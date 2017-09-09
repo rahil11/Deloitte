@@ -1,3 +1,2 @@
-# Deloitte
-Deloitte Branch
-These are offices of US - Remeber Always - REd
+# captivators-hackathon
+Hackathon Project for Team Captivators
